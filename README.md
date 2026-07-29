@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Abhishek21140/leetcode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Abhishek21140/leetcode/tree/master/0383-ransom-note) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhishek21140/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek21140/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Prefix Sum
@@ -70,9 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Abhishek21140/leetcode/tree/master/0383-ransom-note) |
 | [1768-merge-strings-alternately](https://github.com/Abhishek21140/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Abhishek21140/leetcode/tree/master/0682-baseball-game) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Abhishek21140/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
