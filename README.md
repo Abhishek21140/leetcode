@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Abhishek21140/leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Abhishek21140/leetcode/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek21140/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhishek21140/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishek21140/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek21140/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Abhishek21140/leetcode/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek21140/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek21140/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek21140/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Abhishek21140/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -95,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek21140/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek21140/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
