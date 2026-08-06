@@ -10,8 +10,7 @@ public:
                 num=num/10;
                 p=p*dig;
             }
-            if(p==0) return i;
-            if(p%t==0 && p>=t){
+            if(p%t==0 ){
                 return i;
             }
         }
