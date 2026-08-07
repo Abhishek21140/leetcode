@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek21140/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek21140/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhishek21140/leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Abhishek21140/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3731-find-missing-elements](https://github.com/Abhishek21140/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek21140/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
