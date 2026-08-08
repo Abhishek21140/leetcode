@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Abhishek21140/leetcode/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek21140/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Abhishek21140/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhishek21140/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishek21140/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek21140/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Abhishek21140/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek21140/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Abhishek21140/leetcode/tree/master/0383-ransom-note) |
+| [0904-fruit-into-baskets](https://github.com/Abhishek21140/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhishek21140/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek21140/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek21140/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek21140/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek21140/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Abhishek21140/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Minimax
 |  |
 | ------- |
