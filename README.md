@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Abhishek21140/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek21140/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek21140/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Abhishek21140/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek21140/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Abhishek21140/leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Abhishek21140/leetcode/tree/master/0682-baseball-game) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek21140/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Abhishek21140/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek21140/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Abhishek21140/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek21140/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Abhishek21140/leetcode/tree/master/0383-ransom-note) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek21140/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek21140/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Abhishek21140/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek21140/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek21140/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishek21140/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Abhishek21140/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Abhishek21140/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek21140/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhishek21140/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abhishek21140/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek21140/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek21140/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek21140/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -132,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhishek21140/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhishek21140/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
