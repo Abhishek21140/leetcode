@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhishek21140/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Abhishek21140/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhishek21140/leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek21140/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Abhishek21140/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek21140/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek21140/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/Abhishek21140/leetcode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Abhishek21140/leetcode/tree/master/0881-boats-to-save-people) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek21140/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek21140/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
