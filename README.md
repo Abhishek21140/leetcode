@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Abhishek21140/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek21140/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0705-design-hashset](https://github.com/Abhishek21140/leetcode/tree/master/0705-design-hashset) |
+| [0859-buddy-strings](https://github.com/Abhishek21140/leetcode/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek21140/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhishek21140/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek21140/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Abhishek21140/leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Abhishek21140/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Abhishek21140/leetcode/tree/master/0796-rotate-string) |
+| [0859-buddy-strings](https://github.com/Abhishek21140/leetcode/tree/master/0859-buddy-strings) |
 | [1768-merge-strings-alternately](https://github.com/Abhishek21140/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Abhishek21140/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek21140/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
