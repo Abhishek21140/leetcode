@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Abhishek21140/leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Abhishek21140/leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Abhishek21140/leetcode/tree/master/0705-design-hashset) |
+| [0748-shortest-completing-word](https://github.com/Abhishek21140/leetcode/tree/master/0748-shortest-completing-word) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek21140/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Abhishek21140/leetcode/tree/master/0881-boats-to-save-people) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Abhishek21140/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek21140/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0705-design-hashset](https://github.com/Abhishek21140/leetcode/tree/master/0705-design-hashset) |
+| [0748-shortest-completing-word](https://github.com/Abhishek21140/leetcode/tree/master/0748-shortest-completing-word) |
 | [0859-buddy-strings](https://github.com/Abhishek21140/leetcode/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek21140/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhishek21140/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek21140/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Abhishek21140/leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Abhishek21140/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0748-shortest-completing-word](https://github.com/Abhishek21140/leetcode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Abhishek21140/leetcode/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Abhishek21140/leetcode/tree/master/0859-buddy-strings) |
 | [1768-merge-strings-alternately](https://github.com/Abhishek21140/leetcode/tree/master/1768-merge-strings-alternately) |
