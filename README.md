@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Abhishek21140/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Abhishek21140/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Abhishek21140/leetcode/tree/master/0367-valid-perfect-square) |
+| [0728-self-dividing-numbers](https://github.com/Abhishek21140/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Abhishek21140/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek21140/leetcode/tree/master/1512-number-of-good-pairs) |
