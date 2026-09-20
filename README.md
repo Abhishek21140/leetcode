@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Abhishek21140/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Abhishek21140/leetcode/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek21140/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhishek21140/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek21140/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/Abhishek21140/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek21140/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek21140/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhishek21140/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
