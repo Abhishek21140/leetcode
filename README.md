@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek21140/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek21140/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhishek21140/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek21140/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Abhishek21140/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhishek21140/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek21140/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek21140/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/Abhishek21140/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek21140/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek21140/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek21140/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek21140/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek21140/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Abhishek21140/leetcode/tree/master/1002-find-common-characters) |
 | [1370-increasing-decreasing-string](https://github.com/Abhishek21140/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1768-merge-strings-alternately](https://github.com/Abhishek21140/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek21140/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Abhishek21140/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek21140/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek21140/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
