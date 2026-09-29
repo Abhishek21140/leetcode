@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Abhishek21140/leetcode/tree/master/0859-buddy-strings) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Abhishek21140/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Abhishek21140/leetcode/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhishek21140/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek21140/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1370-increasing-decreasing-string](https://github.com/Abhishek21140/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek21140/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Abhishek21140/leetcode/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhishek21140/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek21140/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek21140/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Abhishek21140/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek21140/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek21140/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
