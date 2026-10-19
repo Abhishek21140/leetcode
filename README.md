@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek21140/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Abhishek21140/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhishek21140/leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek21140/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek21140/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Abhishek21140/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek21140/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishek21140/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhishek21140/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Abhishek21140/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek21140/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek21140/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek21140/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhishek21140/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek21140/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek21140/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek21140/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek21140/leetcode/tree/master/3536-maximum-product-of-two-digits) |
