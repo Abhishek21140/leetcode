@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Abhishek21140/leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Abhishek21140/leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Abhishek21140/leetcode/tree/master/0705-design-hashset) |
+| [0746-min-cost-climbing-stairs](https://github.com/Abhishek21140/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/Abhishek21140/leetcode/tree/master/0748-shortest-completing-word) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek21140/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Abhishek21140/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhishek21140/leetcode/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/Abhishek21140/leetcode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Abhishek21140/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Abhishek21140/leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek21140/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
